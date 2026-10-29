@@ -8,3 +8,5 @@ section { background: #fff; border-radius: 10px; padding: 24px; margin-bottom: 2
 h2 { color: #1e3a8a; margin-bottom: 10px; }
 a { color: #1e3a8a; }
 footer { text-align: center; padding: 20px; color: #666; font-size: .9rem; }
+.skills { list-style: none; display: flex; flex-wrap: wrap; gap: 10px; }
+.skills li { background: #e0e7ff; color: #1e3a8a; padding: 6px 14px; border-radius: 20px; }
